@@ -1,0 +1,4 @@
+.ci/
+.github/
+input_data/
+processed_data/
